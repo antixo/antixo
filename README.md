@@ -9,6 +9,12 @@
 - i like modding softwares
 - im a boy
 
+#### contact me!!!
+
+- @janquity on Telegram
+- luciddreamer111:matrix.org on Matrix/Element
+
+
 <!-- ixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
