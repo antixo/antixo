@@ -6,7 +6,7 @@
 
 - i hate squeaky noises
 - i love open source software
-- i like modding softwares
+- i like modding apps/games (not in a harmful way)
 - im a boy
 
 #### contact me!!!
