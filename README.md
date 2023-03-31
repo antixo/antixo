@@ -8,11 +8,16 @@
 - i love open source software
 - i like modding apps/games (not in a harmful way)
 - im a boy
+- fun fact: i have none bc im not funny lol
 
 #### contact me!!!
 
 - @janquity on Telegram
 - luciddreamer111:matrix.org on Matrix/Element
+
+
+#### my skills
+wait
 
 
 <!-- ixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
