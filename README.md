@@ -6,7 +6,8 @@
 
 - i hate squeaky noises
 - i love open source software
-- i love football
+- i like modding softwares
+- im a boy
 
 <!-- ixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
