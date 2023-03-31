@@ -2,7 +2,7 @@
 
 ---
 
-### Heres cool stuff abt me
+### hey! here's cool stuff abt me cuz why not
 
 <!-- ixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
