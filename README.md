@@ -4,6 +4,10 @@
 
 ### hey! here's cool stuff abt me cuz why not
 
+- i hate squeaky noises
+- i love open source software
+- i love football
+
 <!-- ixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
