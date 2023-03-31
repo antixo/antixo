@@ -17,8 +17,8 @@
 
 
 #### my skills
-![github-small](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
 
+<img src="https://github.com/antixo/antixo/edit/main/README.md" alt="Image description" width="250" height="250">
 
 <!-- ixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
