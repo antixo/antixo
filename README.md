@@ -2,7 +2,7 @@
 
 ---
 
-### hey! here's cool stuff abt me cuz why not
+### yo! here's cool stuff abt me cuz why not
 
 - i hate squeaky noises
 - i love open source software
